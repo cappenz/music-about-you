@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Env
+.venv
+venv
+.env
+.env.local
+
+# Outputs
+photo.jpg
+output.mp4
+output_music.mp3
+*.tmp.mp3

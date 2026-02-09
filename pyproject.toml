@@ -1,0 +1,12 @@
+[project]
+name = "camara-thing"
+version = "0.1.0"
+description = "Camera → GPT-4 lyrics from image → ElevenLabs music"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "elevenlabs>=1.0.0",
+    "openai>=1.0.0",
+    "python-dotenv>=1.0.0",
+    "opencv-python>=4.8.0",
+]
