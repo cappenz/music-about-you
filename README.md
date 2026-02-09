@@ -1,4 +1,4 @@
-# camara-thing
+# music about you
 
 Camera → GPT-4 (lyrics from image) → ElevenLabs (music). Uses your webcam to generate pop song lyrics from what it sees, then turns them into short songs.
 
